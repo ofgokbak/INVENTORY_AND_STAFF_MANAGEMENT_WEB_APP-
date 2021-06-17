@@ -1,2 +1,3 @@
 # INVENTORY_AND_STAFF_MANAGEMENT_WEB_APP-
 A project for creating a web application and Rest-API to manage inventory and staﬀ for a storage center using technologies such as Spring Framework to create a Rest API, React and PostgreSQL.
+Within the repository you can find my Spring boot Rest-API and in src/main/frontend path React project was created. Within the repository there is also a folder named as Documentations and contains all documents of the project. Design document contains the whole process is followed during the semester, system security analysis document is an evaluation of the project up to OWASP top 10 criteria, uml class diagram is stored as well as a png file to make more readable. 

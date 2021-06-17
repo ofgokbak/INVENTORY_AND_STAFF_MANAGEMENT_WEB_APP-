@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jan 25 15:03:46 CET 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0177-39db-8b96-00000fd39b58 
+on database directory memory:/Users/admin/Desktop/onlineinventoryproject/dceed97f-4698-454b-8d24-7e425657f5cf with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/Users/admin/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_221-b11
+user.dir=/Users/admin/Desktop/onlineinventoryproject
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.16
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
